@@ -3,7 +3,7 @@
 A responsive Netflix homepage clone built using **HTML, CSS, and JavaScript**.  
 This project focuses on practicing **front-end styling, layout structuring, and interactive hover effects**, aiming to replicate the clean and modern **Netflix UI design**.
 
-🌐 **Live Demo:** [View on Netlify]([https://netflix-clone-by-a7ay05.netlify.app](https://replicaofnetflicx.netlify.app/))
+🌐 **Live Demo:** [https://replicaofnetflicx.netlify.app]
 
 ---
 
